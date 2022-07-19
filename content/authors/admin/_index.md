@@ -1,32 +1,39 @@
 ---
 # Display name
-title: Test
+title: Matias Giannoni
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Test
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Massachusetts Institute of Technology
+    url: https://www.mit.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-  - Test
-
+  - Political Economy
+  - Causal Inference
+  - Deep Learning
+  - Southern Europe
+  - Latin America
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Test
-      institution: Test
+    - course: PhD in Political Science
+      institution: Massachusetts Institute of Technology
+      year: 2023 (Expected)
+    - course: *Licenciado* in Political Science and Government
+      institution: Universidad Torcuato Di Tella
       year: 2012
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,18 +43,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -63,6 +58,6 @@ email: ''
 highlight_name: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Ph.D. Candidate in the Political Science department at [MIT](https://web.mit.edu). I work on the fields of political economy and quantitative methodology, with a regional focus on Southern Europe and South America and a substantive focus on the interaction between business and politics, labor markets, and anti-system political behavior.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I study the role that firm strategies and workplace interactions have in shaping political behavior and local politics. In my work I use massive administrative datasets and survey experiments to elucidate the role of firms in politics. In my dissertation project I explore the effect that “low-road” employment strategies in Italy and Brazil had in producing political de-attachment and anti-system beliefs, and in feeding local coalitions between business owners and workers that sustain right-wing populist parties. In other projects I explore the distributive coalitions that sustain informality and labor market segmentation in urban contexts, the effects of market power and competition policies on inequality, and the politics of urban land access.
